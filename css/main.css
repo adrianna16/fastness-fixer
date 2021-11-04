@@ -1,5 +1,5 @@
 html {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Delius Unicase", sans-serif;
 }
 
 h1,
@@ -29,7 +29,7 @@ h2 {
 
 .banner-content {
   color: #fff;
-  font-family: Lobster, sans-serif;
+  font-family: "Delius Unicase", sans-serif;
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
 }
 
